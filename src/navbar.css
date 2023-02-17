@@ -1,0 +1,217 @@
+.navbar{
+    box-sizing: border-box;
+    position: absolute;
+    height: 721px;
+    width: 108px;
+    left: -23px;
+    top: -16px;
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+}
+.nav-list{
+    position: absolute;
+width: 43px;
+height: 704px;
+left: 17px;
+top: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 880%;
+/* or 88px */
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.3);
+}
+.logo{
+    position: absolute;
+    width: 110px;
+    height: 71px;
+    left: 0px;
+    top: 0px;
+    
+    background: #29B712;
+}
+.logo-pic{
+    position: absolute;
+width: 49.21px;
+height: 24.6px;
+left: 27px;
+top: 19.63px;
+background: url('./logo.png');
+/* background: #FFFFFF; */
+}
+.new{
+    position: absolute;
+width: 23px; 
+height: 0px;
+left: 15px;
+top: 103px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 0%;
+/* identical to box height, or 0px */
+text-align: center;
+color: #000000;
+}
+.patient{
+    position: absolute;
+width: 18px;
+height: 18px;
+left: 30px;
+top: 185px;
+background: url(./navbar-account.png);
+}
+.patient-text{
+    position: absolute;
+    width: 43px;
+    height: 704px;
+    left: 17px;
+    top: 86px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.3);
+}
+.folder{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 24px;
+    top: 269px;
+background: url(./navbar\ folder.png);
+}
+.folder-text{
+    position: absolute;
+    width: 43px;
+    height: 704px;
+    left: 17px;
+    top: 186px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.3);
+}
+.upload{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 22px;
+    top: 351px;
+background: url(./navbar\ upload.png);
+}
+.upload-text{
+    position: absolute;
+    width: 43px;
+    height: 704px;
+    left: 17px;
+    top: 86px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.3);
+}
+.report{
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 25px;
+    top: 444px;
+background: url(./navbar\ report.png);
+}
+.report-text{
+    position: absolute;
+    width: 43px;
+    height: 704px;
+    left: 17px;
+    top: 86px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.3);
+}
+.settings{
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 24px;
+    top: 529px;
+background: url(./navbar\ setting.png);
+}
+.settings-text{
+    position: absolute;
+    width: 43px;
+    height: 704px;
+    left: 17px;
+    top: 86px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.3);
+}
+.logout{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 26px;
+    top: 615px;
+background: url(./navbar\ logout.png);
+}
+.logout-text{
+    position: absolute;
+    width: 43px;
+    height: 704px;
+    left: 17px;
+    top: 86px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 880%;
+    /* or 88px */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.3);
+}
